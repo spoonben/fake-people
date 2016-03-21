@@ -1,0 +1,204 @@
+{
+  "people": [
+    {
+      "id": "56ef4e9b610100492388811f",
+      "picture": "http://placehold.it/32x32",
+      "age": 34,
+      "eyeColor": "brown",
+      "name": "Gracie Mathis",
+      "gender": "female",
+      "email": "graciemathis@namegen.com",
+      "phone": "+1 (857) 555-2824",
+      "address": "540 Seeley Street, Oneida, Guam, 4938",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Boone Ware"
+        },
+        {
+          "id": 1,
+          "name": "Johanna Coleman"
+        },
+        {
+          "id": 2,
+          "name": "Glenda Benson"
+        }
+      ]
+    },
+    {
+      "id": "56ef4e9b0b76c447b2d9e332",
+      "picture": "http://placehold.it/32x32",
+      "age": 26,
+      "eyeColor": "brown",
+      "name": "Rice Sosa",
+      "gender": "male",
+      "email": "ricesosa@namegen.com",
+      "phone": "+1 (896) 417-2158",
+      "address": "585 Knickerbocker Avenue, Ernstville, Ohio, 3022",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Whitney Smith"
+        },
+        {
+          "id": 1,
+          "name": "Michele Henry"
+        },
+        {
+          "id": 2,
+          "name": "Josie Michael"
+        }
+      ]
+    },
+    {
+      "id": "56ef4e9b00efaa1ece20d814",
+      "picture": "http://placehold.it/32x32",
+      "age": 38,
+      "eyeColor": "blue",
+      "name": "Salazar Hines",
+      "gender": "male",
+      "email": "salazarhines@namegen.com",
+      "phone": "+1 (971) 541-2776",
+      "address": "300 Pulaski Street, Manitou, Oklahoma, 4629",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Rosella Merritt"
+        },
+        {
+          "id": 1,
+          "name": "Imogene Landry"
+        },
+        {
+          "id": 2,
+          "name": "Tia Fitzpatrick"
+        }
+      ]
+    },
+    {
+      "id": "56ef4e9bf2e83d7d179c2e94",
+      "picture": "http://placehold.it/32x32",
+      "age": 40,
+      "eyeColor": "blue",
+      "name": "Antoinette House",
+      "gender": "female",
+      "email": "antoinettehouse@namegen.com",
+      "phone": "+1 (838) 527-3077",
+      "address": "891 Rockwell Place, Riegelwood, Idaho, 4820",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Ingrid Crosby"
+        },
+        {
+          "id": 1,
+          "name": "Bullock Shaffer"
+        },
+        {
+          "id": 2,
+          "name": "Todd Hernandez"
+        }
+      ]
+    },
+    {
+      "id": "56ef4e9b8dcffa635b2dba97",
+      "picture": "http://placehold.it/32x32",
+      "age": 40,
+      "eyeColor": "brown",
+      "name": "Yvonne Patton",
+      "gender": "female",
+      "email": "yvonnepatton@namegen.com",
+      "phone": "+1 (988) 518-2829",
+      "address": "384 Stuyvesant Avenue, Lowgap, Washington, 6346",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Polly Higgins"
+        },
+        {
+          "id": 1,
+          "name": "Noreen Stewart"
+        },
+        {
+          "id": 2,
+          "name": "Palmer Knapp"
+        }
+      ]
+    },
+    {
+      "id": "56ef4e9b77ee2a362c5286c2",
+      "picture": "http://placehold.it/32x32",
+      "age": 26,
+      "eyeColor": "green",
+      "name": "Lourdes Bowen",
+      "gender": "female",
+      "email": "lourdesbowen@namegen.com",
+      "phone": "+1 (926) 593-2713",
+      "address": "290 Adelphi Street, Allentown, Rhode Island, 116",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Pamela Conrad"
+        },
+        {
+          "id": 1,
+          "name": "Tillman Ruiz"
+        },
+        {
+          "id": 2,
+          "name": "Alyson Mccoy"
+        }
+      ]
+    },
+    {
+      "id": "56ef4e9bf54e4a23e3045f54",
+      "picture": "http://placehold.it/32x32",
+      "age": 33,
+      "eyeColor": "brown",
+      "name": "Glass Hill",
+      "gender": "male",
+      "email": "glasshill@namegen.com",
+      "phone": "+1 (924) 513-3168",
+      "address": "432 Bergen Place, Tampico, Iowa, 1573",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Aisha Richardson"
+        },
+        {
+          "id": 1,
+          "name": "Brennan Dean"
+        },
+        {
+          "id": 2,
+          "name": "Herring Byrd"
+        }
+      ]
+    },
+    {
+      "id": "56ef4e9bebe02ecdd2240d59",
+      "picture": "http://placehold.it/32x32",
+      "age": 34,
+      "eyeColor": "blue",
+      "name": "Renee Lynn",
+      "gender": "female",
+      "email": "reneelynn@namegen.com",
+      "phone": "+1 (909) 455-2311",
+      "address": "720 Roosevelt Place, Catherine, Vermont, 194",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Bridgette Foster"
+        },
+        {
+          "id": 1,
+          "name": "Bennett Wallace"
+        },
+        {
+          "id": 2,
+          "name": "Casandra Solis"
+        }
+      ]
+    }
+  ]
+}

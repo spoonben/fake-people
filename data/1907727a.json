@@ -1,0 +1,196 @@
+{
+  "people": [
+    {
+      "name": "Candy Pena",
+      "picture": "http://placehold.it/32x32",
+      "age": 20,
+      "eyeColor": "brown",
+      "gender": "female",
+      "email": "candypena@namegen.com",
+      "phone": "+1 (852) 577-2213",
+      "address": "459 Woodruff Avenue, Lloyd, New Mexico, 3719",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Morris Curtis"
+        },
+        {
+          "id": 1,
+          "name": "Angelina Cruz"
+        },
+        {
+          "id": 2,
+          "name": "Beatrice Rojas"
+        }
+      ]
+    },
+    {
+      "name": "Alta Newman",
+      "picture": "http://placehold.it/32x32",
+      "age": 39,
+      "eyeColor": "green",
+      "gender": "female",
+      "email": "altanewman@namegen.com",
+      "phone": "+1 (896) 526-2022",
+      "address": "618 Guider Avenue, Dundee, Illinois, 1881",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Morrison Huffman"
+        },
+        {
+          "id": 1,
+          "name": "Freida Head"
+        },
+        {
+          "id": 2,
+          "name": "Key Lynch"
+        }
+      ]
+    },
+    {
+      "name": "Diaz Waters",
+      "picture": "http://placehold.it/32x32",
+      "age": 20,
+      "eyeColor": "blue",
+      "gender": "male",
+      "email": "diazwaters@namegen.com",
+      "phone": "+1 (843) 513-2429",
+      "address": "462 Linden Boulevard, Barstow, Rhode Island, 6673",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Vang Mcpherson"
+        },
+        {
+          "id": 1,
+          "name": "Olive Hancock"
+        },
+        {
+          "id": 2,
+          "name": "Eileen Charles"
+        }
+      ]
+    },
+    {
+      "name": "Amber Baldwin",
+      "picture": "http://placehold.it/32x32",
+      "age": 36,
+      "eyeColor": "brown",
+      "gender": "female",
+      "email": "amberbaldwin@namegen.com",
+      "phone": "+1 (877) 431-2767",
+      "address": "244 Cumberland Walk, Courtland, Montana, 6675",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Charlene Solis"
+        },
+        {
+          "id": 1,
+          "name": "Lesa Watson"
+        },
+        {
+          "id": 2,
+          "name": "Watkins Sheppard"
+        }
+      ]
+    },
+    {
+      "name": "Strickland Gonzales",
+      "picture": "http://placehold.it/32x32",
+      "age": 30,
+      "eyeColor": "brown",
+      "gender": "male",
+      "email": "stricklandgonzales@namegen.com",
+      "phone": "+1 (808) 418-2606",
+      "address": "999 Manhattan Court, Chilton, Kentucky, 1558",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Noble Edwards"
+        },
+        {
+          "id": 1,
+          "name": "Foster Maxwell"
+        },
+        {
+          "id": 2,
+          "name": "Stephens Higgins"
+        }
+      ]
+    },
+    {
+      "name": "Erica Graham",
+      "picture": "http://placehold.it/32x32",
+      "age": 36,
+      "eyeColor": "blue",
+      "gender": "female",
+      "email": "ericagraham@namegen.com",
+      "phone": "+1 (862) 600-2748",
+      "address": "380 Sapphire Street, Mahtowa, North Carolina, 7115",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Amanda Foster"
+        },
+        {
+          "id": 1,
+          "name": "Gillespie Walls"
+        },
+        {
+          "id": 2,
+          "name": "Michael Knight"
+        }
+      ]
+    },
+    {
+      "name": "Riley Craft",
+      "picture": "http://placehold.it/32x32",
+      "age": 35,
+      "eyeColor": "blue",
+      "gender": "male",
+      "email": "rileycraft@namegen.com",
+      "phone": "+1 (975) 549-3821",
+      "address": "972 National Drive, Retsof, American Samoa, 5854",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Karin Ryan"
+        },
+        {
+          "id": 1,
+          "name": "Pamela Lamb"
+        },
+        {
+          "id": 2,
+          "name": "Charles Simon"
+        }
+      ]
+    },
+    {
+      "name": "Barker Estrada",
+      "picture": "http://placehold.it/32x32",
+      "age": 36,
+      "eyeColor": "brown",
+      "gender": "male",
+      "email": "barkerestrada@namegen.com",
+      "phone": "+1 (884) 456-3170",
+      "address": "885 Marconi Place, Waterford, Iowa, 2305",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Dolly Burris"
+        },
+        {
+          "id": 1,
+          "name": "Gena Brown"
+        },
+        {
+          "id": 2,
+          "name": "Carly Kelly"
+        }
+      ]
+    }
+  ]
+}
