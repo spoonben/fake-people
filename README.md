@@ -31,36 +31,30 @@ Date: Fri, 20 Nov 2015 14:18:57 GMT
 
 [
     {
-        "id": 3,
-        "hero_name": "Super Man",
-        "real_name": "Clark Kent (Kal-El)",
-        "gender": "Male",
-        "attributes": {
-            "intelligence": 100,
-            "strength": 100,
-            "speed": 100,
-            "durability": 100,
-            "power": 100,
-            "combat": 65
-        },
-        "powers": [
-            "Flight",
-            "Super-strength",
-            "Super Speed",
-            "Super Hearing",
-            "Super Smell",
-            "Healing Factor",
-            "Super Breath",
-            "Heat Vision",
-            "Super Vision"
-        ],
-        "weaknesses": [
-            "Magic",
-            "Kryptonite",
-            "Lead",
-            "Solar Energy"
-        ]
+  "id": "56ef4e9b610100492388811f",
+  "picture": "http://placehold.it/32x32",
+  "age": 34,
+  "eyeColor": "brown",
+  "name": "Gracie Mathis",
+  "gender": "female",
+  "email": "graciemathis@namegen.com",
+  "phone": "+1 (857) 555-2824",
+  "address": "540 Seeley Street, Oneida, Guam, 4938",
+  "friends": [
+    {
+      "id": 0,
+      "name": "Boone Ware"
     },
+    {
+      "id": 1,
+      "name": "Johanna Coleman"
+    },
+    {
+      "id": 2,
+      "name": "Glenda Benson"
+    }
+  ]
+},
     ...
 ]
 ```
