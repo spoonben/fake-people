@@ -1,5 +1,5 @@
 {
-  "name": "people-api",
+  "name": "fake-people",
   "version": "1.0.0",
   "description": "Serving up people and letting you create your own person",
   "engines": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/spoonben/people-api.git"
+    "url": "https://github.com/spoonben/fake-people.git"
   },
   "author": "Ben Spoon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spoonben/people-api/issues"
+    "url": "https://github.com/spoonben/fake-people/issues"
   },
-  "homepage": "https://github.com/spoonben/people-api",
+  "homepage": "https://github.com/spoonben/fake-people",
   "dependencies": {
     "crypto": "0.0.3",
     "express": "^4.13.3",

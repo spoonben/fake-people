@@ -1014,12 +1014,12 @@ body .markdown-body
     page-break-after: avoid;
   }
 }
-</style><title>index</title></head><body><article class="markdown-body"><h1 id="people-api"><a name="user-content-people-api" href="#people-api" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>People API</h1>
+</style><title>README</title></head><body><article class="markdown-body"><h1 id="people-api"><a name="user-content-people-api" href="#people-api" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>People API</h1>
 <p>An API for creating&hellip; people</p>
 <p>This is a simple &ldquo;API&rdquo; used for my JavaScript class at Philadelphia University.</p>
 <h2 id="getting-an-api-key"><a name="user-content-getting-an-api-key" href="#getting-an-api-key" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Getting an API Key</h2>
-<p>In order to develop against the API, you&rsquo;ll need a key. To obtain a key, hit <code>https://makepeople-api.herokuapp.com/getApiKey</code>.</p>
-<p>The returned key is yours! Then just hit <code>https://makepeople-api.herokuapp.com/[your-api-key]/people</code> to get the initial data back.</p>
+<p>In order to develop against the API, you&rsquo;ll need a key. To obtain a key, hit <code>https://fake-people.benspoon.com/getApiKey</code>.</p>
+<p>The returned key is yours! Then just hit <code>https://fake-people.benspoon.com/[your-api-key]/people</code> to get the initial data back.</p>
 <h2 id="api"><a name="user-content-api" href="#api" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>API</h2>
 <p>The API contains a single endpoint, <code>people</code>, which supports <strong>GET</strong>, <strong>POST</strong>, and <strong>PATCH</strong> requests.</p>
 <h4 id="get-your-api-keypeople"><a name="user-content-get-your-api-keypeople" href="#get-your-api-keypeople" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>GET <code>[your-api-key]/people</code></h4>
@@ -1027,7 +1027,7 @@ body .markdown-body
 <p>Example request:<br />
 <pre><code class="http">GET /7c023f01/people HTTP/1.1
 Accept: application/json
-Host: makepeople-api.herokuapp.com
+Host: fake-people.benspoon.com
 User-Agent: HTTPie/0.9.2
 </code></pre></p>
 <p>Example response:<br />
@@ -1069,7 +1069,7 @@ Date: Fri, 20 Nov 2015 14:18:57 GMT
 <p>Example request:<br />
 <pre><code class="http">GET /7c023f01/people/1 HTTP/1.1
 Accept: application/json
-Host: makepeople-api.herokuapp.com
+Host: fake-people.benspoon.com
 </code></pre></p>
 <p>Example response:<br />
 <pre><code class="http">HTTP/1.1 200 OK
@@ -1109,7 +1109,7 @@ in <code>JSON</code> format. See the <a href="#get-your-api-keypeople">GET</a> e
 <pre><code class="http">POST /7c023f01/people HTTP/1.1
 Accept: application/json
 Content-Type: application/json
-Host: makepeople-api.herokuapp.com
+Host: fake-people.benspoon.com
 
 {
     &quot;name&quot;: &quot;Bob Paterson&quot;,
@@ -1136,7 +1136,7 @@ in the request body will not be updated.</p>
 <pre><code class="http">PATCH /7c023f01/people/1 HTTP/1.1
 Accept: application/json
 Content-Type: application/json
-Host: makepeople-api.herokuapp.com
+Host: fake-people.benspoon.com
 
 {
     &quot;name&quot;: &quot;Gracie Mathis&quot;

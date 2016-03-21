@@ -5,9 +5,9 @@ An API for creating... people
 This is a simple "API" used for my JavaScript class at Philadelphia University.
 
 ## Getting an API Key
-In order to develop against the API, you'll need a key. To obtain a key, hit `https://makepeople-api.herokuapp.com/getApiKey`.
+In order to develop against the API, you'll need a key. To obtain a key, hit `https://fake-people.benspoon.com/getApiKey`.
 
-The returned key is yours! Then just hit `https://makepeople-api.herokuapp.com/[your-api-key]/people` to get the initial data back.
+The returned key is yours! Then just hit `https://fake-people.benspoon.com/[your-api-key]/people` to get the initial data back.
 
 ## API
 The API contains a single endpoint, `people`, which supports **GET**, **POST**, and **PATCH** requests.
@@ -19,7 +19,7 @@ Example request:
 ```http
 GET /7c023f01/people HTTP/1.1
 Accept: application/json
-Host: makepeople-api.herokuapp.com
+Host: fake-people.benspoon.com
 User-Agent: HTTPie/0.9.2
 ```
 
@@ -66,7 +66,7 @@ Example request:
 ```http
 GET /7c023f01/people/1 HTTP/1.1
 Accept: application/json
-Host: makepeople-api.herokuapp.com
+Host: fake-people.benspoon.com
 ```
 
 Example response:
@@ -111,7 +111,7 @@ Example request:
 POST /7c023f01/people HTTP/1.1
 Accept: application/json
 Content-Type: application/json
-Host: makepeople-api.herokuapp.com
+Host: fake-people.benspoon.com
 
 {
     "name": "Bob Paterson",
@@ -143,7 +143,7 @@ Example request:
 PATCH /7c023f01/people/1 HTTP/1.1
 Accept: application/json
 Content-Type: application/json
-Host: makepeople-api.herokuapp.com
+Host: fake-people.benspoon.com
 
 {
     "name": "Gracie Mathis"
